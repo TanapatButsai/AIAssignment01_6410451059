@@ -1,0 +1,140 @@
+Age,kidney diseases,Fasting Blood sugar,Uri infection,exercise habit,Frequency of alcohol consumption,Smoking habit,profession,#hours spent sitting per day,Diagnosis
+30,no,80,yes,more than 3 months ago,once a week,occasional,engineer,16,Normal
+35,yes,140,yes,less than 3 hours a week,once a week,daily,engineer,6,weak
+27,yes,99,no,no,hardly ever or never,never,engineer,9,Normal
+44,no,96,yes,more than 3 months ago,hardly ever or never,never,pilot,7,Normal
+30,yes,134,no,less than 3 hours a week,once a week,never,engineer,9,weak
+30,yes,100,yes,no,once a week,occasional,engineer,9,Normal
+30,no,88,no,less than 3 months ago,once a week,never,engineer,8,Normal
+36,yes,110,yes,more than 3 months ago,several times a week,never,programmer,7,weak
+30,no,95,yes,no,once a week,never,programmer,5,Normal
+29,yes,98,no,more than 3 months ago,hardly ever or never,never,programmer,5,Normal
+30,yes,90,no,no,once a week,occasional,programmer,6,Normal
+32,yes,89,yes,more than 3 months ago,several times a week,occasional,engineer,2,weak
+32,yes,110,yes,more than 3 months ago,once a week,daily,engineer,5,Normal
+33,yes,96,no,more than 3 months ago,hardly ever or never,never,engineer,7,weak
+35,yes,98,yes,more than 3 months ago,several times a day,never,programmer,5,Normal
+33,yes,99,no,no,hardly ever or never,daily,engineer,9,Normal
+56,yes,89,yes,more than 3 months ago,hardly ever or never,never,pilot,7,Normal
+30,yes,120,yes,less than 3 hours a week,once a week,never,engineer,5,weak
+32,yes,110,yes,more than 3 months ago,hardly ever or never,daily,pilot,5,Normal
+30,yes,150,no,no,once a week,daily,engineer,7,weak
+30,no,110,yes,more than 3 months ago,once a week,never,engineer,5,Normal
+32,yes,100,no,more than 3 months ago,several times a week,occasional,engineer,5,weak
+30,yes,99,no,more than 3 months ago,once a week,never,programmer,5,Normal
+30,yes,200,yes,no exercise,hardly ever or never,never,programmer,8,weak
+28,yes,80,yes,more than 3 months ago,hardly ever or never,never,programmer,11,Normal
+30,yes,121,no,no,hardly ever or never,never,programmer,5,Normal
+55,yes,133,yes,less than 3 hours a week,several times a week,never,pilot,7,weak
+32,yes,150,no,less than 3 hours a week,several times a week,never,programmer,7,weak
+28,no,91,yes,more than 3 months ago,hardly ever or never,never,programmer,3,Normal
+30,no,144,yes,less than 3 hours a week,several times a week,occasional,programmer,9,weak
+29,yes,94,yes,more than 3 months ago,hardly ever or never,never,engineer,11,Normal
+28,yes,90,no,more than 3 months ago,hardly ever or never,never,engineer,8,Normal
+30,no,94,no,more than 3 months ago,hardly ever or never,never,engineer,11,Normal
+28,yes,87,yes,more than 3 months ago,once a week,occasional,engineer,8,Normal
+28,yes,94,yes,no,hardly ever or never,never,engineer,11,Normal
+32,yes,96,no,less than 3 hours a week,several times a week,never,programmer,7,weak
+32,yes,94,yes,more than 3 months ago,hardly ever or never,never,engineer,5,Normal
+28,yes,94,yes,more than 3 months ago,hardly ever or never,never,accountant,11,Normal
+30,no,155,yes,less than 3 hours a week,several times a week,occasional,accountant,9,weak
+30,yes,80,no,no,hardly ever or never,never,accountant,6,Normal
+28,yes,94,yes,more than 3 months ago,once a week,daily,accountant,9,Normal
+28,no,88,no,more than 3 months ago,once a week,daily,pilot,9,Normal
+28,yes,94,yes,less than 3 months ago,once a week,daily,accountant,9,weak
+28,no,94,no,more than 3 months ago,hardly ever or never,never,accountant,8,Normal
+48,yes,87,no,no,hardly ever or never,occasional,pilot,6,Normal
+28,yes,94,no,no,hardly ever or never,occasional,accountant,8,weak
+28,yes,100,no,more than 3 months ago,hardly ever or never,never,accountant,11,Normal
+31,no,88,no,less than 3 hours a week,several times a week,daily,engineer,3,weak
+30,yes,94,yes,more than 3 months ago,once a week,never,accountant,6,Normal
+32,yes,86,yes,less than 3 hours a week,several times a week,never,programmer,3,weak
+30,yes,79,yes,more than 3 months ago,once a week,never,engineer,342,Normal
+28,yes,94,no,no,hardly ever or never,never,engineer,14,Normal
+28,yes,94,no,more than 3 months ago,once a week,occasional,engineer,9,Normal
+28,yes,89,yes,less than 3 months ago,once a week,occasional,pilot,3,weak
+29,no,94,yes,more than 3 months ago,hardly ever or never,never,pilot,11,Normal
+53,yes,91,yes,no,once a week,daily,engineer,3,Normal
+28,no,81,no,more than 3 months ago,once a week,occasional,engineer,14,Normal
+42,yes,130,yes,less than 3 months ago,hardly ever or never,never,pilot,14,weak
+28,yes,94,no,less than 3 hours a week,every day,daily,engineer,11,weak
+28,no,94,no,no,once a week,daily,programmer,8,Normal
+28,no,91,no,no,once a week,occasional,programmer,18,Normal
+30,yes,94,no,no,hardly ever or never,daily,pilot,5,Normal
+29,yes,94,yes,less than 3 hours a week,several times a week,never,programmer,7,weak
+28,yes,94,no,no,hardly ever or never,never,programmer,9,Normal
+38,yes,92,no,no,once a week,never,pilot,6,Normal
+28,no,94,yes,more than 3 months ago,hardly ever or never,never,programmer,10,weak
+27,yes,94,no,less than 3 months ago,once a week,occasional,programmer,16,Normal
+27,yes,88,no,no,hardly ever or never,never,engineer,8,Normal
+58,yes,180,no,no,once a week,occasional,pilot,6,weak
+27,yes,94,yes,less than 3 months ago,once a week,never,engineer,9,Normal
+27,yes,144,no,no exercise,once a week,occasional,engineer,16,weak
+30,no,94,no,no,hardly ever or never,never,engineer,6,Normal
+28,yes,82,no,less than 3 hours a week,several times a week,occasional,pilot,9,weak
+27,no,94,no,no,once a week,never,engineer,8,weak
+48,yes,89,no,no,once a week,never,pilot,11,Normal
+32,yes,80,yes,no,hardly ever or never,daily,engineer,5,Normal
+40,yes,94,yes,less than 3 hours a week,several times a week,occasional,pilot,10,weak
+31,yes,90,yes,no,once a week,never,engineer,3,Normal
+28,no,94,no,no,once a week,occasional,engineer,7,Normal
+39,no,94,yes,less than 3 hours a week,several times a week,occasional,pilot,5,weak
+35,no,94,no,no,hardly ever or never,never,accountant,11,Normal
+33,no,94,yes,no,once a week,occasional,accountant,3,weak
+35,no,94,no,less than 3 hours a week,several times a week,never,programmer,3,weak
+33,no,89,yes,no,hardly ever or never,never,accountant,5,Normal
+32,no,110,no,less than 3 hours a week,hardly ever or never,daily,engineer,1,weak
+34,no,96,no,less than 3 hours a week,several times a week,daily,pilot,6,weak
+32,yes,94,yes,less than 3 hours a week,several times a week,daily,engineer,5,weak
+32,yes,85,yes,no,once a week,daily,accountant,5,Normal
+33,no,98,yes,more than 3 months ago,hardly ever or never,never,accountant,6,weak
+50,no,94,yes,more than 3 months ago,hardly ever or never,daily,pilot,7,Normal
+33,yes,78,yes,no,once a week,never,accountant,7,Normal
+32,yes,140,no,more than 3 months ago,hardly ever or never,daily,engineer,1,weak
+32,yes,99,no,more than 3 months ago,once a week,never,accountant,7,Normal
+32,yes,160,yes,less than 3 hours a week,once a week,never,accountant,8,weak
+28,yes,94,no,less than 3 hours a week,several times a week,daily,engineer,9,weak
+30,no,88,no,more than 3 months ago,hardly ever or never,never,accountant,9,Normal
+29,yes,94,no,more than 3 months ago,once a week,occasional,accountant,9,Normal
+54,yes,90,yes,no,hardly ever or never,never,pilot,6,Normal
+30,yes,91,yes,more than 3 months ago,hardly ever or never,occasional,accountant,3,Normal
+30,no,94,yes,more than 3 months ago,several times a week,never,engineer,3,Normal
+64,no,130,no,less than 3 hours a week,every day,daily,engineer,11,weak
+60,no,121,yes,less than 3 hours a week,several times a week,never,programmer,7,weak
+60,no,144,no,no exercise,once a week,occasional,engineer,16,Normal
+65,no,110,no,less than 3 hours a week,several times a week,occasional,engineer,9,weak
+70,no,153,yes,less than 3 hours a week,several times a week,occasional,engineer,10,weak
+56,no,130,yes,less than 3 hours a week,several times a week,occasional,engineer,5,Normal
+60,no,140,no,less than 3 hours a week,several times a week,never,programmer,3,weak
+63,no,110,yes,no,hardly ever or never,daily,engineer,1,weak
+58,no,145,yes,less than 3 hours a week,several times a week,daily,pilot,6,Normal
+62,yes,120,yes,no,several times a week,daily,engineer,5,weak
+67,yes,160,yes,less than 3 hours a week,once a week,never,accountant,8,weak
+60,yes,110,no,less than 3 hours a week,several times a week,daily,engineer,9,Normal
+62,yes,96,no,less than 3 hours a week,several times a week,never,programmer,7,weak
+62,no,155,yes,no,several times a week,occasional,accountant,9,weak
+66,yes,88,no,less than 3 hours a week,several times a week,daily,engineer,3,weak
+70,yes,86,yes,less than 3 hours a week,several times a week,never,programmer,3,weak
+58,no,94,no,no,every day,daily,engineer,11,Normal
+59,yes,94,yes,less than 3 hours a week,several times a week,never,programmer,7,weak
+55,yes,144,no,no exercise,once a week,occasional,engineer,16,weak
+59,yes,82,no,less than 3 hours a week,several times a week,occasional,engineer,9,Normal
+61,no,94,yes,no exercise,several times a week,occasional,engineer,10,weak
+60,no,94,yes,no exercise,several times a week,occasional,engineer,5,weak
+65,no,94,no,no exercise,several times a week,never,programmer,3,weak
+63,no,110,no,no exercise,hardly ever or never,daily,pilot,1,Normal
+64,no,96,no,less than 3 hours a week,several times a week,daily,engineer,6,weak
+66,no,96,no,no,several times a week,daily,pilot,6,Normal
+68,yes,96,no,less than 3 hours a week,several times a week,occasional,engineer,6,weak
+34,yes,96,no,less than 3 hours a week,several times a week,daily,pilot,6,weak
+51,yes,96,no,less than 3 hours a week,several times a week,daily,engineer,6,weak
+36,yes,94,yes,no,several times a week,occasional,engineer,5,Normal
+35,yes,94,no,no,several times a week,never,programmer,3,Normal
+32,yes,110,no,no,hardly ever or never,daily,engineer,1,Normal
+55,no,96,no,more than 3 months ago,several times a week,daily,engineer,6,Normal
+22,no,100,no,more than 3 months ago,several times a week,daily,pilot,6,weak
+31,yes,90,no,no,several times a week,occasional,engineer,6,Normal
+24,yes,86,no,more than 3 months ago,several times a week,daily,engineer,6,Normal
+28,no,91,no,no,several times a week,occasional,engineer,6,Normal
+44,yes,79,no,more than 3 months ago,several times a week,daily,pilot,6,weak
+37,yes,91,no,more than 3 months ago,several times a week,occasional,engineer,6,Normal
